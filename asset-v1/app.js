@@ -51,7 +51,7 @@ var app = new function() {
     }, {
         name: "13_shine",
         color: "2E2747",
-        uniqsnd: !1
+        uniqsnd: !0
     }, {
         name: "14_selk",
         color: "2E2747",
