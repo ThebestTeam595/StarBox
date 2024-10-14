@@ -49,7 +49,7 @@ var app = new function() {
         color: "2E2747",
         uniqsnd: !1
     }, {
-        name: "13_wish",
+        name: "13_shine",
         color: "2E2747",
         uniqsnd: !1
     }, {
