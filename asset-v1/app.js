@@ -11,7 +11,7 @@ var app = new function() {
     }, {
         name: "3_tisk",
         color: "D8355E",
-        uniqsnd: !1
+        uniqsnd: !0
     }, {
         name: "4_shika",
         color: "D8355E",
